@@ -1,6 +1,3 @@
-PatientID,InsuranceCovered,FinalAmount
-101,2000,3000
-102,1500,3500
-103,2500,5000
-104,3000,3200
-105,1000,4000
+version https://git-lfs.github.com/spec/v1
+oid sha256:928885c4381f75fa68b9fc75d8b65b991c041c89facaca4436d3e63ac674c6cf
+size 109
